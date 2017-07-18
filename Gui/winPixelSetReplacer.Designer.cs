@@ -113,7 +113,7 @@
             this.Controls.Add(this.bttnImageToReplace);
             this.Location = new System.Drawing.Point(0, 0);
             this.Name = "winPixelSetReplacer";
-            this.Text = "winPixelSetReplacer";
+            this.Text = "Pixel Set Replacer";
             ((System.ComponentModel.ISupportInitialize)(this.sliderTolerance)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
