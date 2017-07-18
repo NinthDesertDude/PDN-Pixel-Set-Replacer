@@ -1,4 +1,4 @@
-# PDN-Pixel-Set-Replacer
+# Pixel Set Replacer
 This is a plugin for Paint.NET that replaces all segments of one image with equally-sized segments of another image.
 
 **Store Image to Replace**: Stores the first image, which should be replaced.  
